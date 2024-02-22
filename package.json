@@ -1,0 +1,19 @@
+{
+  "name": "google-calendarapi",
+  "version": "1.0.0",
+  "description": "Google Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakediki/GoogleCalendar.git"
+  },
+  "author": "Shaked Kidan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakediki/GoogleCalendar/issues"
+  },
+  "homepage": "https://github.com/shakediki/GoogleCalendar#readme"
+}
