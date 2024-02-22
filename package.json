@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shakediki/GoogleCalendar/issues"
   },
-  "homepage": "https://github.com/shakediki/GoogleCalendar#readme"
+  "homepage": "https://github.com/shakediki/GoogleCalendar#readme",
+  "dependencies": {
+    "googleapis": "^133.0.0"
+  }
 }
